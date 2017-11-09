@@ -3,7 +3,7 @@
 #---------------------------------
 # script backup 
 #---------------------------------
-
+# questo non lo uso piu'!
 
 home_dir="/home/marta"
 backup_dirs="$home_dir/.thunderbird /media/WINE/MARTA"
